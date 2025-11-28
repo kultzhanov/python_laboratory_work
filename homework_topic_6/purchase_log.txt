@@ -1,0 +1,5 @@
+{"user_id": "1840e0b9d4", "category": "Продукты"}
+{"user_id": "4e4f90fcfb", "category": "Электроника"}
+{"user_id": "user3", "category": "Книги"}
+{"user_id": "user4", "category": "Спорт"}
+{"invalid_json"}
