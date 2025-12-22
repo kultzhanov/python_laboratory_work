@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Купить продукты",
+    "priority": "high",
+    "isDone": false
+  },
+  {
+    "id": 2,
+    "title": "Сходить в спортзал",
+    "priority": "normal",
+    "isDone": true
+  },
+  {
+    "id": 3,
+    "title": "Прочитать книгу",
+    "priority": "low",
+    "isDone": false
+  },
+  {
+    "id": 4,
+    "title": "Написать отчёт",
+    "priority": "high",
+    "isDone": false
+  },
+  {
+    "id": 5,
+    "title": "Позвонить маме",
+    "priority": "normal",
+    "isDone": true
+  }
+]
+
